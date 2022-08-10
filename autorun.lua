@@ -1,0 +1,1 @@
+/Users/substrakt/.config/nvim/lua/lee/autorun.lua
